@@ -1,0 +1,7 @@
+{
+  "name": "VigoritoApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

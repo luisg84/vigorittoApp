@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514063959819",
+    "firebase_url": "https://vigorito-dev.firebaseio.com",
+    "project_id": "vigorito-dev",
+    "storage_bucket": "vigorito-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514063959819:android:b1f2f76ccae281f260c40e",
+        "android_client_info": {
+          "package_name": "shs.vigorito.vigoritoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514063959819-g5c9nfi9p41t24q91uuumnlpef5un5id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqRJo6L7klDfmd6DqM3wtcRAvkqksHoys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514063959819-g5c9nfi9p41t24q91uuumnlpef5un5id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
